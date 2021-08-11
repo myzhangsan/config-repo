@@ -1,2 +1,2 @@
 # config-repo
-spring-cloud-server服务配置
+spring-cloud-server服务测试配置
